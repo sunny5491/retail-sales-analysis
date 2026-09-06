@@ -1,0 +1,11 @@
+category,sub_category,sales,profit,pct_of_total_sales
+Furniture,Tables,763675.67,5047.94,18.81
+Furniture,Chairs,361009.04,25753.26,8.89
+Furniture,Bookcases,324073.49,-13190.25,7.98
+Office Supplies,Storage,244875.68,41584.15,6.03
+Office Supplies,Paper,54174.84,16241.16,1.33
+Office Supplies,Binders,40082.02,6563.31,0.99
+Office Supplies,Art,31910.61,7945.79,0.79
+Technology,Machines,1352090.73,108310.78,33.31
+Technology,Phones,747895.19,117504.28,18.43
+Technology,Accessories,139218.81,38478.22,3.43

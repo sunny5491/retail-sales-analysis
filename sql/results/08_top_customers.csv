@@ -1,0 +1,11 @@
+customer_id,customer_name,segment,region,orders,lifetime_sales,lifetime_profit,last_order,days_since_last_order
+CUST-0055,Michael Sharma,Consumer,East,10,23235.08,2162.39,2025-12-26,5
+CUST-0083,Meera Verma,Corporate,West,8,19921.44,2468.56,2025-09-15,107
+CUST-0501,Sara Sharma,Home Office,Central,9,16933.65,3182.48,2025-11-04,57
+CUST-0572,Sofia Patel,Corporate,West,8,15708.28,1733.59,2025-12-14,17
+CUST-0552,Isha Brown,Consumer,East,7,14916.72,1580.86,2025-11-14,47
+CUST-0444,Michael Verma,Home Office,East,10,14732.98,1972.06,2025-12-22,9
+CUST-0007,Daniel Davis,Consumer,Central,10,14703.05,2385.44,2025-12-11,20
+CUST-0031,James Khan,Consumer,East,8,14692.8,-46.5,2025-11-23,38
+CUST-0431,Nina Patel,Consumer,East,8,14633.11,1304.18,2025-12-07,24
+CUST-0519,Sara Singh,Consumer,South,7,14447.58,538.22,2025-12-01,30
