@@ -6,6 +6,8 @@ End-to-end data analytics project: **messy raw data -> cleaned dataset -> SQL da
 
 Built as a portfolio project for a Data Analytics internship. Every step is a script you can re-run.
 
+**Live dashboard:** https://sunny5491.github.io/retail-sales-analysis/
+
 ![Monthly sales trend](images/01_monthly_sales_trend.png)
 
 ## Business questions answered
@@ -57,7 +59,7 @@ retail-sales-analysis/
 
 ## Dashboard
 
-Open `dashboard/retail_dashboard.html` in any browser. Filters (year, region, category, segment) recompute all tiles and charts client-side.
+Live at **https://sunny5491.github.io/retail-sales-analysis/** (GitHub Pages), or open `dashboard/retail_dashboard.html` locally. Filters (year, region, category, segment) recompute all tiles and charts client-side.
 
 ![Dashboard preview](images/08_dashboard_preview.png)
 
